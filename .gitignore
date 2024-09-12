@@ -1,0 +1,4 @@
+node_modules/
+coverage/
+regras-animais.txt
+pnpm-lock.yaml
